@@ -7,15 +7,15 @@ The Library Management System is gaining more importance as the number of its us
 
 Library Management System is a simple management system for monitoring and controlling transactions in a library. The main objectives of this project is to:
 
---Access and update details of the authors
+-Access and update details of the authors
 
---Access and update details of the books
+-Access and update details of the books
 
---Issue and Return a book
+-Issue and Return a book
 
---Add new books
+-Add new books
 
---Add new authors
+-Add new authors
 
 # Youtube Link
 https://youtu.be/KRrwp5Y01ks
