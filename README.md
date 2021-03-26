@@ -20,7 +20,7 @@ Library Management System is a simple management system for monitoring and contr
 # Youtube Link
 https://youtu.be/KRrwp5Y01ks
 
-![1](https://user-images.githubusercontent.com/45779903/112673880-750a2a00-8e8f-11eb-9da9-26e9da12cb71.jpeg)
-![2](https://user-images.githubusercontent.com/45779903/112673947-89e6bd80-8e8f-11eb-935a-0e3382f61ebc.jpeg)
+![main](https://user-images.githubusercontent.com/45779903/112675268-2493cc00-8e91-11eb-9d18-207437cb60fc.jpg)
+![db](https://user-images.githubusercontent.com/45779903/112675351-3e351380-8e91-11eb-9c00-95a97c4364f5.jpg)
 ![3](https://user-images.githubusercontent.com/45779903/112673963-8d7a4480-8e8f-11eb-9c25-430d62014a2b.jpeg)
 
